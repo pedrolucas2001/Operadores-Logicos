@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666989669 source:c:\users\pc\documents\devc\operadorlogicoe\main.c
+	<stdio.h>
+	<stdlib.h>
+

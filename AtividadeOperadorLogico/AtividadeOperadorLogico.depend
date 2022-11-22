@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667962265 source:c:\users\pc\documents\devc\atividadeoperadorlogico\main.c
+	<stdio.h>
+	<stdlib.h>
+
